@@ -30,7 +30,7 @@
     "electron-builder-tslint-config": "^1.1.0",
     "fs-extra": "^9.0.0",
     "jest-cli": "^25.2.7",
-    "jest-junit": "^10.0.0",
+    "jest-junit": "^13.0.0",
     "memory-fs": "^0.5.0",
     "temp-file": "^3.3.7",
     "terser-webpack-plugin": "^2.3.5",
